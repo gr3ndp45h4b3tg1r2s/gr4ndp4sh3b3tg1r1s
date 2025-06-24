@@ -5,7 +5,7 @@
 
 
 <h2 style="text-align: center; font-size: 22px; color: #34495e;">
-  Sadece Kayıt Olarak 50 TL Bedava Bahis Fırsatını Yakala!
+  Sadece Kayıt Olarak 250 TL Bedava Bahis Fırsatını Yakala!
 </h2>
 
 <p style="font-size: 16px; color: #2c3e50; text-align: center; max-width: 700px; margin: 0 auto; line-height: 1.6;">
